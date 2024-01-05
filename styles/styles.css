@@ -1,0 +1,7 @@
+@import url("http://fonts.googleapis.com/css?family=Quantico:400,300,700");
+@import url("http://fonts.googleapis.com/css?family=IBM+Plex+Mono:400,300,700");
+
+body {
+  font-family: 'Quantico' !important;
+  font-family: 'IBM+Plex+Mono';
+}
