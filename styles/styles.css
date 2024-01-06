@@ -12,5 +12,6 @@ p {
 }
 
 body{
-  background-color: url(../multimedia/Hero_BG.png);
+  color: white;
+  background-color: var(--dark);
 }
