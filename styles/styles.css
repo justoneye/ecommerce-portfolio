@@ -1,3 +1,5 @@
+@import url(variables.css);
+
 @import url("http://fonts.googleapis.com/css?family=Quantico:400,300,700");
 @import url("http://fonts.googleapis.com/css?family=IBM+Plex+Mono:400,300,700");
 
@@ -7,4 +9,8 @@ h1, h2, h3, button, nav li {
 
 p {
   font-family: 'IBM Plex Mono' !important;
+}
+
+body{
+  background-color: url(../multimedia/Hero_BG.png);
 }
