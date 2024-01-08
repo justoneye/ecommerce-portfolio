@@ -17,9 +17,10 @@ _Completed by por: Pilar Camargo Márquez_
 ## File Structure
 
 ```
-FrontEnd-Designer/
+ecommerce-portfolio/
 ├── styles/
 |   └── styles.css
+|   └── ...
 ├── multimedia/
 |   └── images, logo, favicon...
 └── contact.html
@@ -36,8 +37,8 @@ FrontEnd-Designer/
 
 Build the home, portfolio, project and contact pages for a developer agency, with the following characteristics:
 
-- A fixed side navigation bar through which you can navigate the portfolio from anywhere on the page.
-- Hover behavior for the covers of each project in the We make section (Portfolio).
+- A fixed side navigation bar through you can navigate the portfolio from anywhere on the page.
+- Hover behavior for the covers of each project in the Portfolio section.
 - Gallery slider where the user can click on the image they want to see and it is displayed in the upper container.
 
 <br />
@@ -52,7 +53,7 @@ Build the home, portfolio, project and contact pages for a developer agency, wit
 
 ## Multimedia Content
 
-To finish this test the content of the page (images, icons, logos, etc.) were taken from the [Figma Document](https://www.figma.com/proto/sCzdUj6jnQ3ecfHzXvUKZk/TEST?type=design&node-id=237-225&scaling=min-zoom&page-id=0%3A1) given by the company.
+To finish this test the content of the page (images, icons, logos, etc.) were taken from the [Figma Document](https://www.figma.com/proto/sCzdUj6jnQ3ecfHzXvUKZk/TEST?type=design&node-id=237-225&scaling=min-zoom&page-id=0%3A1) given as the test.
 
 <br />
 
